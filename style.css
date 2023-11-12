@@ -138,6 +138,23 @@ z-index: 0;
     justify-content: center;
     width: 100%;
 }
+.interdiv11{
+    display: flex;
+    flex-direction: row;
+    overflow-x: scroll;
+    width: 100%;
+    padding: 20px;
+}
+.interdiv22{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    width: 200px;
+    text-align: center;
+    color: rgb(233, 202, 64);
+}
 
 .popup{
     overflow-x: hidden;
